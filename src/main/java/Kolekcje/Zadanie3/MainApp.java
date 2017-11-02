@@ -14,8 +14,8 @@ public class MainApp {
         personHashSet.add(new Person("Irena", "Wass"));
         personHashSet.add(new Person("Leon", "Kajarowski"));
         int iterator = 0;
-        for(Person osoba : personHashSet){
-            if(iterator == 0 || iterator == (personHashSet.size() -1)){
+        for (Person osoba : personHashSet) {
+            if (iterator == 0 || iterator == (personHashSet.size() - 1)) {
                 System.out.println(iterator + " miejsce w kolecji: " + osoba);
             }
             iterator++;
@@ -23,15 +23,17 @@ public class MainApp {
 
         System.out.println("");
 
-        System.out.println("Priority Queue:");
-        PriorityQueue<Person> personPriorityQueue = new PriorityQueue<>();
-        personPriorityQueue.offer(new Person("Mateusz", "Deptuła"));
-        personPriorityQueue.offer(new Person("Rafał", "Fryd"));
-        personPriorityQueue.offer(new Person("Anna", "Kollumb"));
-        personPriorityQueue.offer(new Person("Irena", "Wass"));
-        personPriorityQueue.offer(new Person("Leon", "Kajarowski"));
-        System.out.println(personPriorityQueue.peek());
-        System.out.println("Nie można dostać się do ostatniego elementu");
+//        odkomentowanie poniższego kodu i odpalenie apki spowoduje wyjątek ClassCast Exeption:
+
+//        System.out.println("Priority Queue:");
+//        PriorityQueue<Person> personPriorityQueue = new PriorityQueue<>();
+//        personPriorityQueue.offer(new Person("Mateusz", "Deptuła"));
+//        personPriorityQueue.offer(new Person("Rafał", "Fryd"));
+//        personPriorityQueue.offer(new Person("Anna", "Kollumb"));
+//        personPriorityQueue.offer(new Person("Irena", "Wass"));
+//        personPriorityQueue.offer(new Person("Leon", "Kajarowski"));
+//        System.out.println(personPriorityQueue.peek());
+//        System.out.println("Nie można dostać się do ostatniego elementu");
 
         System.out.println("");
 
@@ -44,6 +46,8 @@ public class MainApp {
         personLinkedList.add(new Person("Leon", "Kajarowski"));
         System.out.println(personLinkedList.getFirst());
         System.out.println(personLinkedList.getLast());
+
+        System.out.println("");
 
         System.out.println("Vector:");
         Vector<Person> personVector = new Vector<>();
