@@ -2,9 +2,6 @@ package Strumienie.Zadanie5;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.OptionalDouble;
-import java.util.stream.Collectors;
-
 public class MainApp {
 
     public static void main(String[] args) {

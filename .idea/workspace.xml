@@ -2,16 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7129aaee-768a-4b35-a74a-1a471a59cb94" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie1/MainApp_Zadanie1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie2/WyszukiwanieMainApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie3/SortingStreamMainApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie4/MaxMinInStreamMainApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/Pracownik.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/classes/Kolekcje/Zadanie5/KolejkaMainApp.class" afterPath="$PROJECT_DIR$/target/classes/Kolekcje/Zadanie5/KolejkaMainApp.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Zadania_powtorkowe.iml" afterPath="$PROJECT_DIR$/Zadania_powtorkowe.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java" afterPath="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,8 +90,8 @@
       <file leaf-file-name="MainApp.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="181">
-              <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+            <state relative-caret-position="45">
+              <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -159,8 +152,8 @@
         <option value="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie3/SortingStreamMainApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie4/MaxMinInStreamMainApp.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java" />
         <option value="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/Pracownik.java" />
+        <option value="$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java" />
       </list>
     </option>
   </component>
@@ -478,7 +471,7 @@
       <updated>1509462660123</updated>
       <workItem from="1509462666740" duration="9242000" />
       <workItem from="1509624164006" duration="18361000" />
-      <workItem from="1509703348956" duration="1929000" />
+      <workItem from="1509703348956" duration="1996000" />
     </task>
     <task id="LOCAL-00001" summary="zadanie z intefejsem">
       <created>1509469960324</created>
@@ -508,14 +501,22 @@
       <option name="project" value="LOCAL" />
       <updated>1509644967677</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Dodane zadania ze strumieni.&#10;Trzecie zadanie z kolecji nadal niepoprawione.">
+      <created>1509705321638</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1509705321638</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29532000" />
+    <option name="totallyTimeSpent" value="29599000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -530,7 +531,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33260155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.102878466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.102878466" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -556,7 +557,8 @@
     <MESSAGE value="zadanie z intefejsem" />
     <MESSAGE value="dodano 3 pierwsze zadania z kolekcjami (w trzecim wywala wyjątek)" />
     <MESSAGE value="wszystkie zadania dodane (trzecie dalej z błędem!(którego nie umiem naprawić))" />
-    <option name="LAST_COMMIT_MESSAGE" value="wszystkie zadania dodane (trzecie dalej z błędem!(którego nie umiem naprawić))" />
+    <MESSAGE value="Dodane zadania ze strumieni.&#10;Trzecie zadanie z kolecji nadal niepoprawione." />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodane zadania ze strumieni.&#10;Trzecie zadanie z kolecji nadal niepoprawione." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -873,8 +875,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Strumienie/Zadanie5/MainApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="181">
-          <caret line="17" column="71" lean-forward="true" selection-start-line="17" selection-start-column="71" selection-end-line="17" selection-end-column="71" />
+        <state relative-caret-position="45">
+          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
